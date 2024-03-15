@@ -1,1 +1,1 @@
-GitHub Pages - https://nebeyi.github.io/ArLab/
+GitHub Pages - https://nebeyi.github.io/ResursSibir/
