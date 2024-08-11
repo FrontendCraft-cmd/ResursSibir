@@ -1,1 +1,1 @@
-GitHub Pages - https://nebeyi.github.io/ResursSibir/
+GitHub Pages - https://frontendcraft-cmd.github.io/ResursSibir/
